@@ -3,7 +3,8 @@
 [![layers badge](https://images.microbadger.com/badges/image/youmingdot/mkdocs.svg)](https://microbadger.com/images/youmingdot/mkdocs)
 ### Supported tags and respective Dockerfile links
 
-+  `0.15.3`, `0.15`, `latest` [(cron/Dockerfile)](https://github.com/youmingdot/docker-mkdocs/blob/master/0.15/Dockerfile)
++  `0.16.1`, `0.16`, `latest` [(cron/Dockerfile)](https://github.com/youmingdot/docker-mkdocs/blob/master/0.16/Dockerfile)
++  `0.15.3`, `0.15` [(cron/Dockerfile)](https://github.com/youmingdot/docker-mkdocs/blob/master/0.15/Dockerfile)
 
 ------
 ### Author
