@@ -11,7 +11,7 @@ install:
 before_script:
   - env | sort
   - cd "$VERSION"
-  - image="youmingdot/shadowsocks:$VERSION"
+  - image="cogset/mkdocs:$VERSION"
 
 script:
   - docker build -t "$image" .
